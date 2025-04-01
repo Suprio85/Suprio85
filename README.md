@@ -50,4 +50,4 @@ You can reach out to me via email at: [supriopaul461@gmail.com](mailto:supriopau
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suprio85&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ### 📊 Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suprio85&layout=compact&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suprio85&layout=compact&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
